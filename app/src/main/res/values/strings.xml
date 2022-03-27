@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Exercise Todo App</string>
+    <string name="color">color</string>
+    <string name="selamatdatang">Welcome in Todo App</string>
+    <string name="logo">Logo</string>
+    <string name="nama">Nama</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="Repassword">Re-Password</string>
+    <string name="masukkannama">Masukkan Nama</string>
+    <string name="masukkanpassword">Masukkan Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="masukkanemail">Masukkan Email</string>
+    <string name="masukkanpasswordkembali">Masukkan Password Kembali</string>
+    <string name="barudiaplikasi">New to Todo App?</string>
+    <string name="register">Registrasi</string>
+    <string name="submit">Submit</string>
+    <string name="oSelamatdatang">Selamat Datang</string>
+    <string name="task">Task</string>
+    <string name="masuktask">Masukkan Task</string>
+    <string name="jenistask">Jenis Task</string>
+    <string name="logout">Logout</string>
+    <string name="masukkanjenistask">Masukkan Jenis Task</string>
+    <string name="timetask">Time Task</string>
+    <string name="masukkanlamatask">Masukkan Lama Task</string>
+    <string name="hasiltask">HasilTask</string>
+    <string name="hasiljenis">HasilJenis</string>
+    <string name="hasiltime">HasilTime</string>
+</resources>
