@@ -11,12 +11,10 @@
         android:theme="@style/Theme.ExerciseTodoApp" >
         <activity
             android:name=".HasilActivity"
-            android:exported="false"
-            android:parentActivityName=".DaftarActivity"/>
+            android:exported="false" />
         <activity
             android:name=".TaskActivity"
-            android:exported="false"
-            android:parentActivityName=".MainActivity" />
+            android:exported="false" />
         <activity
             android:name=".DaftarActivity"
             android:exported="false" />

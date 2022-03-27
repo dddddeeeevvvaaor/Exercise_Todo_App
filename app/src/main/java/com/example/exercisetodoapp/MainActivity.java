@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                 else if(ednama.getText().toString().equals("Zandev") && edpassword.getText().toString().equals("12345")){
 
                     Toast.makeText(getApplicationContext(), "Login Berhasil", Toast.LENGTH_SHORT).show();
-                    
+
 
                     Intent i = new Intent(getApplicationContext(), TaskActivity.class);
                     i.putExtras(b);
